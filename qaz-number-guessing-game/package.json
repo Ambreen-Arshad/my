@@ -1,0 +1,19 @@
+{
+  "name": "qaz-number-guessing-game",
+  "version": "1.0.0",
+  "description": "\"Embark on a thrilling challenge of wit and intuition in our number guessing game! Test your skills by trying to guess the mystery number within a limited range. With each guess, receive valuable clues to guide you closer to the elusive answer. Sharpen your instincts and experience the excitement of cracking the code!\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ambreen",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
